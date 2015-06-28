@@ -5,4 +5,5 @@ Enter the stats, weapons, and skills for two characters and simulate the results
 
 
 First version will be CLI only
+
 GUI and / or web interface to come later (Tkinter or Django)
